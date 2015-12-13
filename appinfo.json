@@ -2,12 +2,12 @@
   "uuid": "a84cefce-d12b-4ba3-8fdf-ac8e8eca7a66",
   "shortName": "Roundel",
   "longName": "Roundel",
-  "companyName": "MakeAwesomeHappen",
-  "versionLabel": "1.0",
+  "companyName": "ishotjr.com",
+  "versionLabel": "0.1",
   "sdkVersion": "3",
-  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "targetPlatforms": ["chalk"],
   "watchapp": {
-    "watchface": false
+    "watchface": true
   },
   "appKeys": {
     "dummy": 0
